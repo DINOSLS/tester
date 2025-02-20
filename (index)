@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="planet clue! evan clue and kaykay's home among the stars." />
+
+	<title>planet clue</title>
+	<link rel="icon" href="images/smiley.gif" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+	<!-- designed by evan clue. coded by ian klug (ian@ianklug.com). -->
+	<div id="main-container">
+		<main>
+			<div id="art">
+				<img id="art-japanese-top" src="images/japanese-top.png" alt="japanese text reading 'planet clue'" />
+				<img id="art-planet" src="images/planet.png" alt="kaykay sitting atop a planet labeled 'planet clue', with a rocket ship flying past" />
+				<img id="art-japanese-bottom" src="images/japanese-bottom.png" alt="japanese text reading 'space travel is no longer a dream'" />
+				<img id="art-welcome" src="images/welcome.gif" alt="led matrix sign reading 'welcome to my homepage'" />
+				<img id="art-jumprope" src="images/jumprope.gif" alt="yellow smiley face jumping rope" />
+				<img id="art-cursor" src="images/cursor.gif" alt="mouse cursor with several colored balls spinning around it" />
+				<img id="art-banana" src="images/banana.gif" alt="the dancing banana from 'peanut butter jelly time'" />
+				<img id="art-smiley" src="images/smiley.gif" alt="yellow smiley face spinning around" />
+				<span id="art-credit">illustration by @lazerblast</span>
+			</div>
+			<div id="text">
+				<span>meowdy! my name is <a id="text-link-bio" href="bio">evan clue</a>. <i>(he/him)</i></span>
+				<br />
+				<span>my mascot, the purple cat, is named <a id="text-link-kaykay-left" href="kaykay">kay</a><a id="text-link-kaykay-right" href="kaykay">kay</a>. <i>(any)</i></span>
+				<br />
+				<br />
+				<span>i'm a <b>twenty-something</b> year old <b>graphic designer</b>, <b>video producer</b>, and <b>content creator</b>.</span>
+				<br />
+				<br />
+				<span>i love celebrating <b>niche</b>, <b>esoteric</b>, and <b>surreal</b> media, especially if it's from the <b>late '90s and early 2000s</b> <i>(y2k)</i>.</span>
+			</div>
+			<div id="button">
+				<a href="https://clue.media">
+					<img id="button-portfolio" class="button-link" src="images/button-portfolio.png" alt="clue's media portfolio" />
+				</a>
+				<a href="https://planetclue.com/carnival">
+					<img id="button-mario" class="button-link" src="images/button-mario.png" alt="mario's carnival quest" />
+				</a>
+				<a href="https://planetclue.com/garfieldplus">
+					<img id="button-garfield" class="button-link" src="images/button-garfield.png" alt="garfield plus" />
+				</a>
+			</div>
+			<div id="link">
+				<img id="link-wheel" src="images/link-wheel.png" alt="wheel with five colored segments, each containing a website logo" />
+				<a href="https://www.tiktok.com/@planetclue">
+					<img id="link-tiktok" class="link-icon" src="images/link-tiktok.png" alt="tiktok logo" />
+				</a>
+				<a href="https://www.youtube.com/@planetclue">
+					<img id="link-youtube" class="link-icon" src="images/link-youtube.png" alt="youtube logo" />
+				</a>
+				<a href="https://patreon.com/clue">
+					<img id="link-patreon" class="link-icon" src="images/link-patreon.png" alt="patreon logo" />
+				</a>
+				<a href="https://discord.gg/clue">
+					<img id="link-discord" class="link-icon" src="images/link-discord.png" alt="discord logo" />
+				</a>
+				<a href="https://bsky.app/profile/planetclue.com">
+					<img id="link-bluesky" class="link-icon" src="images/link-bluesky.png" alt="bluesky logo" />
+				</a>
+				<img id="link-globe" src="images/globe.gif" alt="spinning earth globe in the center of the link wheel" />
+				<img id="link-go" src="images/go-for-it.png" alt="go for it! everybody's waiting for you" />
+			</div>
+			<div id="banner">
+				<div>
+					<img src="images/banner-2001.gif" alt="i wish it was 2001!" />
+					<img src="images/banner-y2k.gif" alt="rainbow colored 'y2k' in a starry night sky" />
+					<img src="images/banner-pride.gif" alt="pride flag" />
+					<img src="images/banner-planetclue.gif" alt="kaykay next to a spinning planetclue logo" />
+				</div>
+				<div>
+					<img src="images/banner-itg2.gif" alt="in the groove 2" />
+					<img src="images/banner-paws.gif" alt="made with my own two paws" />
+					<img src="images/banner-sharing.gif" alt="sharing is caring... seed your torrents!" />
+					<img src="images/banner-smile.gif" alt="have a smile!" />
+				</div>
+			</div>
+		</main>
+	</div>
+  </body>
+</html>
